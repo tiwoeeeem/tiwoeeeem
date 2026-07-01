@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📬 How to reach me: <a href="mailto:your.email@example.com">meetparmar2480@gmail.com</a>
+  📬 How to reach me: <a href="mailto:meetparmar2480@gmail.com">meetparmar2480@gmail.com</a>
 </p>
 
 ---
